@@ -1,0 +1,1 @@
+export { SectionPrice } from "./SectionPrice";

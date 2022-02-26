@@ -1,0 +1,1 @@
+export { SectionAmenities } from "./SectionAmenities";

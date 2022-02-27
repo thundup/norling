@@ -58,7 +58,7 @@ const StyledImgWrapper = styled.div`
   }
 `;
 const text =
-  "Peak is a family-owned hotel that desires to cater and provide guests with personalized hospitality based on what they prefer. While we aim to give you an authentic experience whenever you stay with us, we also guarantee consistent high standards of customer service at Roof. Contemporary amenities and timeless elegance are reflected throughout every guest room at our luxury hotel. We hope to make your stay unforgettable in the best way.";
+  "Norling is a family-owned hotel that desires to cater and provide guests with personalized hospitality based on what they prefer. While we aim to give you an authentic experience whenever you stay with us, we also guarantee consistent high standards of customer service at Roof. Contemporary amenities and timeless elegance are reflected throughout every guest room at our luxury hotel. We hope to make your stay unforgettable in the best way.";
 
 export const SectionAbout = () => {
   return (
@@ -68,7 +68,7 @@ export const SectionAbout = () => {
           <img
             height="400px"
             width="400px"
-            src="https://cdn.pixabay.com/photo/2022/02/09/17/22/cat-7003849_1280.jpg"
+            src="https://scontent.fixb3-1.fna.fbcdn.net/v/t1.6435-9/32372858_1361515263950626_1221165734621609984_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=9267fe&_nc_ohc=Vvi1QIZOW4IAX_Ugg30&_nc_ht=scontent.fixb3-1.fna&oh=00_AT_uaqGAg63PmTsHUdjmYjywK8R_taYatUAwP-bOEuzMbQ&oe=6240AE0A"
             alt="asd"
           />
         </StyledImgWrapper>

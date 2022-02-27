@@ -48,7 +48,7 @@ export const SectionRooms = () => {
   const [imgUrl, setImgUrl] = useState("");
 
   const img1 =
-    "https://cdn.pixabay.com/photo/2022/02/09/17/22/cat-7003849_1280.jpg";
+    "https://i.ibb.co/crCHbgL/Whats-App-Image-2022-02-26-at-9-40-51-AM.jpg";
   const img2 =
     "https://cdn.pixabay.com/photo/2022/02/09/17/22/cat-7003849_1280.jpg";
   const img3 =
